@@ -1,0 +1,5 @@
+update_frequency = 10
+server_ip = "test.mosquitto.org"
+server_port = 1883
+client_name = "Hello"
+base_path = "oldgrill/viewer"
