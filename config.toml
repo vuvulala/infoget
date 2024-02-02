@@ -1,5 +1,11 @@
 update_frequency = 10
-server_ip = "test.mosquitto.org"
+server_ip = "localhost"
 server_port = 1883
-client_name = "Hello"
-base_path = "oldgrill/viewer"
+client_name = "client"
+base_path = "infoget"
+
+[ram]
+update_frequency = 1
+
+[cpu]
+update_frequency = 5
